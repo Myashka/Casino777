@@ -1,0 +1,11 @@
+C:\C#\Практическая работа 1-2\Functional Casino\bin\Debug\netcoreapp3.1\Functional Casino.exe
+C:\C#\Практическая работа 1-2\Functional Casino\bin\Debug\netcoreapp3.1\Functional Casino.deps.json
+C:\C#\Практическая работа 1-2\Functional Casino\bin\Debug\netcoreapp3.1\Functional Casino.runtimeconfig.json
+C:\C#\Практическая работа 1-2\Functional Casino\bin\Debug\netcoreapp3.1\Functional Casino.runtimeconfig.dev.json
+C:\C#\Практическая работа 1-2\Functional Casino\bin\Debug\netcoreapp3.1\Functional Casino.dll
+C:\C#\Практическая работа 1-2\Functional Casino\bin\Debug\netcoreapp3.1\Functional Casino.pdb
+C:\C#\Практическая работа 1-2\Functional Casino\obj\Debug\netcoreapp3.1\Functional Casino.csprojAssemblyReference.cache
+C:\C#\Практическая работа 1-2\Functional Casino\obj\Debug\netcoreapp3.1\Functional Casino.AssemblyInfoInputs.cache
+C:\C#\Практическая работа 1-2\Functional Casino\obj\Debug\netcoreapp3.1\Functional Casino.AssemblyInfo.cs
+C:\C#\Практическая работа 1-2\Functional Casino\obj\Debug\netcoreapp3.1\Functional Casino.dll
+C:\C#\Практическая работа 1-2\Functional Casino\obj\Debug\netcoreapp3.1\Functional Casino.pdb
